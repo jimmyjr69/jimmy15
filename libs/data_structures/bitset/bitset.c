@@ -1,6 +1,5 @@
 //
-// Created by yaros on 17.02.2024.
-//
+// 
 #include "bitset.h"
 #include <stdbool.h>
 #include <assert.h>
