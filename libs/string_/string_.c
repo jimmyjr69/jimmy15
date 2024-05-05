@@ -1,5 +1,5 @@
 //
-// Created by yaros on 13.04.2024.
+//
 //
 #include "string_.h"
 #include <ctype.h>
