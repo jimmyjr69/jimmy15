@@ -1,5 +1,5 @@
 //
-// Created by yaros on 17.02.2024.
+// 
 //
 # include <stdio.h>
 # include <assert.h>
