@@ -1,5 +1,5 @@
 //
-//
+// 
 //
 #include "string_.h"
 #include <ctype.h>
